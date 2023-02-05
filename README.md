@@ -1,3 +1,1 @@
-[Ondrej Sika (sika.io)](https://sika.io) | <ondrej@sika.io> | [DevOps Live](https://devopslive.cz)
-
-# DevOps Live #16: WireGuard
+# Moved to <https://github.com/ondrejsika/devopslive/tree/master/2021-04-21_wireguard>
